@@ -1,3 +1,12 @@
+## Review Request
+
+Main notebook: 02_correct.ipynb
+
+Feedback requested on:
+1. 12-month default window
+2. Optuna setup
+3. AUC/Gini performance
+
 # LendingClub Credit Risk Pipeline
 
 A clean, end-to-end machine-learning pipeline that predicts **loan default** using the public LendingClub dataset. The focus is a reproducible, well-documented credit-risk workflow, not maximum AUC.
